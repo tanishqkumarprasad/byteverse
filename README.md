@@ -1,16 +1,48 @@
-# byteverse
+# 🌐 Project Name – Disaster Management App
 
-A new Flutter project.
+## 🚀 Problem Statement
+Addressing gaps in disaster response in India through smart, tech-driven solutions.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 🎯 Objective
+To provide real-time disaster alerts, live location tracking, and nearby rescue resources like helicopters through a user-friendly mobile app.
 
-A few resources to get you started if this is your first Flutter project:
+## 💡 Key Features
+- 📍 Live user location tracking
+- 🚁 Nearby helicopter/rescue support
+- 📢 Real-time disaster alerts
+- 🆘 SOS support
+- 🗂️ Info and steps for different disasters
+- 📦 Offline access (planned)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- Flutter (UI & Cross-platform)
+- Firebase (Authentication & Database)
+- Google Maps API (Location services)
+- Dart
+- OpenStreetMap (Planned)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔄 Current Progress (Mid Evaluation)
+- [x] UI for calamity selection
+- [x] Navigation between screens
+- [x] Placeholder assets & layout design
+- [ ] Live location integration (basic)
+- [ ] Nearby helicopters tab (in development)
+- [ ] Backend setup for rescue data (pending)
+
+## 🔗 How to Run
+1. Clone this repo
+2. Run `flutter pub get`
+3. Use `flutter run` to launch on emulator or device
+
+## 📌 Known Issues / TODOs
+- Better error handling for GPS and assets
+- Add backend APIs for helicopter data
+- Polish UI transitions & animations
+
+## 🧠 Team Members
+- Tanishq Kumar Prasad (@tanishqkumarprasad)     {Team Lead}
+
+
+## 💬 Feedback / Suggestions
+Open to feedback and looking forward to final round polish!
