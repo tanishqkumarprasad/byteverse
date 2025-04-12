@@ -29,6 +29,13 @@ To provide real-time disaster alerts, live location tracking, and nearby rescue 
 - [ ] Live location integration (basic)
 - [ ] Nearby helicopters tab (in development)
 - [ ] Backend setup for rescue data (pending)
+      
+💼 Business Vision
+- Problem: Mobile GPS depends on internet connectivity, which fails during natural disasters.
+- Solution: A low-cost, offline GPS receiver using NEO-6M and Arduino, providing location tracking without internet.
+- Benefit: Enables accurate location tracking and improves rescue operations in areas with poor connectivity.
+- Scalability: Could be adopted by the government or disaster management organizations for widespread use.
+- Impact: A vital tool for disaster response in India, where natural disasters are frequent.
 
 ## 🔗 How to Run
 1. Clone this repo
